@@ -2,12 +2,12 @@
 ---
 ---
 ---
-# Olá, sou o Caetano!
+# Olá, sou o Caetano, e esse é meu README alterado:
 ## Sobre mim:
 - Tenho 21 anos;
-- Tenho formação técnica em **Eletrônica** pela *ETEC*;
-- Sou estudante de **Sistemas de Informação** pela *EACH, USP*;
-- Gosto muito dos meus amigos da faculdade!
+- Gosto muito dos meus amigos da faculdade;
+- Gosto de jogar jogos de carta e tabuleiro (ex: coup, codenames, etc)
+- Quero participar do PET!
 
   Sigam meu perfil no Instrangam: [@caetszz](https://www.instagram.com/caetszz?igsh=dTYxNDFtaGV6bnA4)
 !!
